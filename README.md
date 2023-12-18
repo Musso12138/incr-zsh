@@ -9,7 +9,7 @@ This repository has commented out the line of code `show-prediction` within the 
 Clone the repository:
 
 ```
-git clone git@github.com:Musso12138/incr.plugin.zsh
+git clone git@github.com:Musso12138/incr-zsh.git
 ```
 
 Create directory for incr plugin:
@@ -21,7 +21,7 @@ mkdir ~/.oh-my-zsh/plugins/incr
 Copy incr.plugin.zsh to the directory:
 
 ```
-cp incr.plugin.zsh/incr.plugin.zsh ~/.oh-my-zsh/plugins/incr/incr.plugin.zsh
+cp incr-zsh/incr.plugin.zsh ~/.oh-my-zsh/plugins/incr/incr.plugin.zsh
 ```
 
 Load incr plugin:
