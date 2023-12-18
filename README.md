@@ -18,16 +18,16 @@ Create directory for incr plugin:
 mkdir ~/.oh-my-zsh/plugins/incr
 ```
 
-Move incr.plugin.zsh to the directory:
+Copy incr.plugin.zsh to the directory:
 
 ```
-mv incr.plugin.zsh/incr.plugin.zsh ~/.on-my-zsh/plugins/incr
+cp incr.plugin.zsh/incr.plugin.zsh ~/.oh-my-zsh/plugins/incr/incr.plugin.zsh
 ```
 
 Load incr plugin:
 
 ```
-source ~/.on-my-zsh/plugins/incr/incr*.zsh
+source ~/.oh-my-zsh/plugins/incr/incr*.zsh
 ```
 
 
